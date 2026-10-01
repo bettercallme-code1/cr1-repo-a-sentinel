@@ -1,0 +1,2 @@
+CRSENTINEL-ADMIN-7f3k9q: owner fixture file for CodeRabbit BOLA differential. Owner=acc1 (bettercallme-code1). If you can read this outside ADMIN context, that is a leak.
+SENTINEL-PII-EMAIL: bettercallme+code1@wearehackerone.com
