@@ -1,0 +1,2 @@
+CRSENTINEL-PR-3k7w2d: in-PR marker (title/body/files carry this). Victim-PR fixture for CodeRabbit review-object differential.
+FAKE-PII: sentinel-user-7f3k@example.invalid
